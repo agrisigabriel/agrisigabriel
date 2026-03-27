@@ -54,7 +54,7 @@ A fully integrated revenue management system built on Notion, organized around 4
 
 Includes calendar management, project tracking, revenue learning library, and operational workflows.
 
-[Explore Revenue OS on Notion](https://grateful-sundae-963.notion.site/Revenue-OS-32e357c2fc04810dbc88f95e02e5ee61)
+[Explore Revenue OS on Notion](https://www.notion.so/Revenue-OS-402357c2fc0483739c8b81af3e81edf4?source=copy_link)
 
 ---
 
