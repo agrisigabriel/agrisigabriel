@@ -5,8 +5,6 @@
 <!-- HEADER BANNER -->
 <img width="100%" src="https://raw.githubusercontent.com/agrisigabriel/agrisigabriel/main/banner.jpg" />
 
-<!-- TYPING ANIMATION -->
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&multiline=true&repeat=true&width=650&height=70&lines=Revenue+Manager+%7C+Data+Analyst;Transforming+data+into+strategic+decisions)](https://git.io/typing-svg)
 
 </div>
 
