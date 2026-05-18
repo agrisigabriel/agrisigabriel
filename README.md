@@ -12,7 +12,9 @@
 
 My name is Gabriel, but you can call me Gabe.
 
-I'm a Gonzaga Alumni (Go Zags!) with a bachelor's and master's in engineering, and a specialization in real estate. I've been analyzing real estate data since 2014 and currently work as a Revenue Manager & Data Analyst, building data-driven strategies for the hospitality industry.
+I'm a Gonzaga Alumni (Go Zags!) with a bachelor's and master's in engineering, and a specialization in real estate. I've been analyzing real estate data since 2014 and work as a Revenue Manager & Data Analyst, building data-driven strategies for the hospitality industry.
+
+Fun fact about me is that I'm good at remembering dates, specially birthdays.
 
 ---
 
@@ -85,6 +87,22 @@ YoY booking revenue comparison across vacation rental properties. Automated data
 
 ---
 
+## 🚀 Products & Resources
+
+<div align="center">
+
+📋 **Revenue Manager OS** — A complete Notion workspace for Revenue Managers: KPIs, pricing strategies, channel performance, and daily operations.
+
+<br>
+
+<a href="#">
+<img src="https://img.shields.io/badge/Get_it_on_Notion_Marketplace-000000?style=for-the-badge&logo=notion&logoColor=white" />
+</a>
+
+</div>
+
+---
+
 ## 🛠️ Languages & Tools
 
 <div align="center">
@@ -98,21 +116,6 @@ YoY booking revenue comparison across vacation rental properties. Automated data
 <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
 <img src="https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white" />
 </p>
-
-</div>
-
----
-
-## 📈 GitHub Stats
-
-<div align="center">
-
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=agrisigabriel&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9&ring_color=58a6ff" />
-<img width="49%" src="https://github-readme-streak-stats.herokuapp.com?user=agrisigabriel&theme=github-dark-blue&hide_border=true&background=0D1117&ring=58a6ff&fire=58a6ff&currStreakLabel=58a6ff" />
-
-<br>
-
-<img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=agrisigabriel&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9" />
 
 </div>
 
