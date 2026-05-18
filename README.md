@@ -1,52 +1,22 @@
-<!-- ╔══════════════════════════════════════════════════════════════════╗ -->
-<!-- ║  GITHUB PROFILE README                                         ║ -->
-<!-- ║  Substituir placeholders:                                      ║ -->
-<!-- ║    agrisigabriel  →  seu username GitHub                        ║ -->
-<!-- ║    SEU-LINKEDIN  →  slug do LinkedIn (ex: seu-nome-123)        ║ -->
-<!-- ║    #  →  URL do Revenue Manager OS       ║ -->
-<!-- ╚══════════════════════════════════════════════════════════════════╝ -->
+<!-- GITHUB PROFILE README -->
 
 <div align="center">
 
 <!-- HEADER BANNER -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1a1b27,100:0f4c75&height=220&section=header&text=Revenue%20%7C%20Data%20%7C%20Analytics&fontSize=42&fontColor=58a6ff&fontAlignY=35&desc=Turning%20raw%20data%20into%20revenue%20decisions&descSize=16&descColor=8b949e&descAlignY=55&animation=fadeIn" />
+<img width="100%" src="https://raw.githubusercontent.com/agrisigabriel/agrisigabriel/main/banner.jpg" />
 
-<!-- TYPING ANIMATION -->
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&multiline=true&repeat=true&width=650&height=70&lines=Revenue+Manager+%7C+Data+Analyst;Transforming+data+into+strategic+decisions)](https://git.io/typing-svg)
 
 </div>
 
-<!-- ══════════════════════════════════════════════════════════════════ -->
 ## 🧑‍💻 About Me
-<!-- ══════════════════════════════════════════════════════════════════ -->
 
-```yaml
-name:       "Gabe Agrisi"
-location:   "Brazil"
-role:       "Revenue Manager & Data Analyst"
-education:
-  - school: "Gonzaga University Alumni"
-  - degree: "M.Sc. Engineering"
-  - degree: "B.Sc. Engineering"
-  - specialization: "Real Estate"
-```
+My name is Gabriel, but you can call me Gabe.
 
-<div align="center">
+I'm a Gonzaga Alumni (Go Zags!) with a bachelor's and master's in engineering, and a specialization in real estate. I've been analyzing real estate data since 2014 and currently work as a Revenue Manager & Data Analyst, building data-driven strategies for the hospitality industry.
 
-🏨 Revenue Management &nbsp;·&nbsp; 📊 Data Analytics &nbsp;·&nbsp; 🤖 Machine Learning &nbsp;·&nbsp; 📈 Business Intelligence
+---
 
-</div>
-
-<br>
-
-> *"Without data, you're just another person with an opinion."*
-> — W. Edwards Deming
-
-<br>
-
-<!-- ══════════════════════════════════════════════════════════════════ -->
 ## 📂 Portfolio
-<!-- ══════════════════════════════════════════════════════════════════ -->
 
 <div align="center">
 <table>
@@ -112,85 +82,3 @@ YoY booking revenue comparison across vacation rental properties. Automated data
 <sub>More projects coming soon — stay tuned.</sub>
 
 </div>
-
-<br>
-
-<!-- ══════════════════════════════════════════════════════════════════ -->
-## 🚀 Products & Resources
-<!-- ══════════════════════════════════════════════════════════════════ -->
-
-<div align="center">
-
-📋 **Revenue Manager OS** — A complete Notion workspace for Revenue Managers: KPIs, pricing strategies, channel performance, and daily operations.
-
-<br>
-
-<a href="#">
-<img src="https://img.shields.io/badge/Get_it_on_Notion_Marketplace-000000?style=for-the-badge&logo=notion&logoColor=white" />
-</a>
-
-</div>
-
-<br>
-
-<!-- ══════════════════════════════════════════════════════════════════ -->
-## 🛠️ Languages & Tools
-<!-- ══════════════════════════════════════════════════════════════════ -->
-
-<div align="center">
-
-<p>
-<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-<img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white" />
-<img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
-<img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" />
-<img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white" />
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
-<img src="https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white" />
-</p>
-
-</div>
-
-<br>
-
-<!-- ══════════════════════════════════════════════════════════════════ -->
-## 📈 GitHub Stats
-<!-- ══════════════════════════════════════════════════════════════════ -->
-
-<div align="center">
-
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=agrisigabriel&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9&ring_color=58a6ff" />
-<img width="49%" src="https://github-readme-streak-stats.herokuapp.com?user=agrisigabriel&theme=github-dark-blue&hide_border=true&background=0D1117&ring=58a6ff&fire=58a6ff&currStreakLabel=58a6ff" />
-
-<br>
-
-<img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=agrisigabriel&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9" />
-
-</div>
-
-<br>
-
-<!-- ══════════════════════════════════════════════════════════════════ -->
-## 🤝 Connect with Me
-<!-- ══════════════════════════════════════════════════════════════════ -->
-
-<div align="center">
-
-<a href="https://www.linkedin.com/in/gabriel-agrisi/">
-<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-</a>
-&nbsp;&nbsp;
-<a href="mailto:agrisigabriel@gmail.com">
-<img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
-</a>
-
-<br><br>
-
-<img src="https://komarev.com/ghpvc/?username=agrisigabriel&color=58a6ff&style=flat-square&label=Profile+Views" />
-
-</div>
-
-<br>
-
-<!-- FOOTER -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1a1b27,100:0f4c75&height=120&section=footer" />
